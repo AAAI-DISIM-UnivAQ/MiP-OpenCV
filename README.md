@@ -23,9 +23,9 @@ it warns the Brain (writing on Redis). In this way the Mip Robot can make an int
 <h1> __init__.py </h1>
 
 *Contains the GattTool and Mip classes.*
-<br> <h2> GattTool class: </h2>
+<br> 1. GattTool class:
 <br> This class provides methods to command the Mip Robot through BLE protocol.
-<br> <h2> Mip class: </h2>
+<br> 2. Mip class: 
 <br> This class provides methods of the Mip-Brain. 
 
 
